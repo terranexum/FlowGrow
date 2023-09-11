@@ -1,9 +1,9 @@
 # FlowGrow
 FlowGrow: Enhance your open-source projects with efficient information flow, fostering community growth and the creation of impactful products.
 
-Welcome to FlowGrow, your gateway to streamlined and productive open-source collaboration. FlowGrow is designed to enhance your open-source projects by facilitating efficient information flow, ultimately nurturing the growth of vibrant communities and empowering the creation of impactful products.
+Welcome to FlowGrow, a gateway to streamlined and productive open-source collaboration we have been developing at TerraNexum for our own Open Projects. FlowGrow is designed to enhance open-source projects by facilitating efficient information flow, ultimately nurturing the growth of vibrant communities and empowering the creation of impactful products.
 
-## Key Features:
+## Key Features
 
 Efficient Information Flow: FlowGrow optimizes the sharing and dissemination of project-related information, ensuring that contributors stay informed and aligned.
 
@@ -11,10 +11,20 @@ Community Growth: Foster the growth of your project's community by breaking down
 
 Productivity Boost: Experience improved productivity as you harness the collective wisdom and skills of your community to drive project development.
 
-## How FlowGrow Works:
+## How FlowGrow Works
 
 FlowGrow integrates seamlessly with your existing tools, including GitHub, Google Docs, and collaborative platforms. It empowers your team to manage tasks, track progress, and collaborate on documentation effortlessly.
+
+## What is in FlowGrow?
+
+The following diagram describes the setup and connections. We will update the documentation on these elements as we get time.
+
+![FlowGrow FlowChart](https://github.com/terranexum/FlowGrow/blob/main/TN%20Task%20and%20Comms%20Workflow.png?raw=true)
 
 ## Why FlowGrow?
 
 Our mission is to simplify open-source collaboration while promoting community growth. FlowGrow enables you to harness the full potential of your community, resulting in more impactful and sustainable projects.
+
+## License
+
+MIT, for the broadest academic and commercial reuse.
