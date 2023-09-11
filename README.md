@@ -1,7 +1,6 @@
 # FlowGrow
-FlowGrow: Enhance your open-source projects with efficient information flow, fostering community growth and the creation of impactful products.
 
-Welcome to FlowGrow, a gateway to streamlined and productive open-source collaboration we have been developing at TerraNexum for our own Open Projects. FlowGrow is designed to enhance open-source projects by facilitating efficient information flow, ultimately nurturing the growth of vibrant communities and empowering the creation of impactful products.
+Welcome to FlowGrow, a gateway to streamlined and productive open-source collaboration we have been developing at TerraNexum for our own [Open Projects](https://opencollective.com/terranexum). FlowGrow is designed to enhance open-source projects by facilitating efficient information flow, ultimately nurturing the growth of vibrant communities and empowering the creation of impactful products.
 
 ## Key Features
 
